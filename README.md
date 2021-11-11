@@ -9,7 +9,7 @@ I love to play Cricket🏏, Volleyball🏐(National🏆 Level Player) and Cookin
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%2317b0cc?logo=Microsoft-edge&style=for-the-badge)](https://app.netlify.com/teams/akshays133/overview/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshay-sharma-07017940/)
 [![Twitter](https://img.shields.io/badge/Twitter-pink?logo=Twitter&style=for-the-badge)](https://twitter.com/Akshays133)
-[![HackerRank](https://img.shields.io/badge/Hackerrank-pink?logo=Hackerrank&style=for-the-badge)](https://www.hackerrank.com/akshays1333?hr_r=1)
+[![HackerRank](https://img.shields.io/badge/Hackerrank-green?logo=Hackerrank&style=for-the-badge)](https://www.hackerrank.com/akshays1333?hr_r=1)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-black?logo=dev.to&style=for-the-badge)](https://dev.to/akshays133)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/Akshays133/)
 
