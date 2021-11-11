@@ -8,7 +8,7 @@ I love to play Cricket🏏, Volleyball🏐(National🏆 Level Player) and Cookin
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%2317b0cc?logo=Microsoft-edge&style=for-the-badge)](https://smithgajjar.tech/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshay-sharma-07017940/)
-[![Twitter.com](https://img.shields.io/badge/Dribbble-pink?logo=Dribbble&style=for-the-badge)](https://twitter.com/Akshays133)
+[![Twitter.com](https://img.shields.io/badge/Twitter-pink?logo=Twitter&style=for-the-badge)](https://twitter.com/Akshays133)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-black?logo=dev.to&style=for-the-badge)](https://dev.to/akshays133)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/Akshays133/)
 
@@ -23,8 +23,8 @@ I love to play Cricket🏏, Volleyball🏐(National🏆 Level Player) and Cookin
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
-![Java](https://img.shields.io/badge/-java-black?logo=c%2B%2B&style=social)
+![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=flat-square)
+![Java](https://img.shields.io/badge/-java-black?logo=Java&style=flat-square)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
