@@ -15,7 +15,7 @@ I love to play Cricket🏏, Volleyball🏐(National🏆 Level Player) and Cookin
 
 ## Languages & Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![NextJS](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=nextJS)
+![NextJS](https://img.shields.io/badge/-NextJS-006BCD?style=flat-square&logo=nextJS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
