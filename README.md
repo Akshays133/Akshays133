@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...TypeScript
 - 💞️ I’m looking to collaborate on ...Big web-development company.
 - 📫 How to reach me ...dm in akshay.1822ec1017@kiet.edu
-- [Resume](https://drive.google.com/file/d/1R-rYSD_Hl7GjkHyVwcM1tKNMe1D6SvK4/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/125csmCv6WYTBXYur8ob813Cs0VuDu_5R/view?usp=sharing)
 
 I love to play Cricket🏏, Volleyball🏐(National🏆 Level Player) and Cooking 👨‍🍳
 
