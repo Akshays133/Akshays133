@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning ...TypeScript
 - 💞️ I’m looking to collaborate on ...Big web-development company.
 - 📫 How to reach me ...dm in akshay.1822ec1017@kiet.edu
-- [Resume]([https://drive.google.com/file/d/125csmCv6WYTBXYur8ob813Cs0VuDu_5R/view?usp=sharing](https://drive.google.com/file/d/1WmWZ8ZoKei_ae0BPi_S81YnozjBgl1Ev/view?usp=sharing))
+- [Resume](https://drive.google.com/file/d/1WmWZ8ZoKei_ae0BPi_S81YnozjBgl1Ev/view?usp=sharing)
 
 I love to play Cricket🏏, Volleyball🏐(National🏆 Level Player) and Cooking 👨‍🍳
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-%2317b0cc?logo=Microsoft-edge&style=for-the-badge)]([https://app.netlify.com/teams/akshays133/overview/](https://poran.co.uk/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%2317b0cc?logo=Microsoft-edge&style=for-the-badge)](https://poran.co.uk/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshay-sharma-07017940/)
 [![Twitter](https://img.shields.io/badge/Twitter-pink?logo=Twitter&style=for-the-badge)](https://twitter.com/Akshays1333)
 [![HackerRank](https://img.shields.io/badge/Hackerrank-green?logo=Hackerrank&style=for-the-badge)](https://www.hackerrank.com/akshays1333?hr_r=1)
